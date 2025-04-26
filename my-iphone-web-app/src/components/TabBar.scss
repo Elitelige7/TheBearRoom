@@ -1,0 +1,15 @@
+.tab-bar {
+    height: 60px;
+    background: #fafafa;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    button {
+        background: none;
+        border: none;
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+}
